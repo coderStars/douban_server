@@ -1,10 +1,27 @@
-const app = require('koa')
 const KoaRouter = require('koa-router');
 const Fly = require("flyio/src/node")
 const jwt = require('jsonwebtoken');
 const fly=new Fly;
 
 const router = new KoaRouter();
+
+// 获取电影接口参数
+const moviesData = require('../datas/movies.json')
+router.get('/getMoviesData',(ctx,moviesData) => {
+	ctx.body=moviesData
+})
+
+// 获取电影tags参数
+const mvKindsData = require('../datas/mvKinds.json')
+router.get('/getMvKindsData',(ctx,mvKindsData) => {
+	ctx.body=mvKindsData
+})
+
+// 获取点数据tags参数
+const tvsData = require('../datas/Tvs.json')
+router.get('/getI',(ctx,tvsData) => {
+	ctx.body=tvsData
+})
 
 router.get('/test',(ctx,next) => {
 	ctx.body="测试test接口"
