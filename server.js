@@ -1,8 +1,10 @@
 const koa = require('koa')
 const router = require('./router/index.js')
 const app = new koa()
+const bodyParser = require('koa-bodyparser');
 
 app
+	.use(bodyParser())
 	.use(router.routes())
 	.use(router.allowedMethods())
 
