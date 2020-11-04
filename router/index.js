@@ -8,6 +8,19 @@ const fly=new Fly;
 
 const router = new KoaRouter();
 
+// 获得读书页右侧热门分类 
+const bookHotList = require('../datas/bookHotTag.json')
+router.get('/getBookHotList',ctx => {
+	ctx.body = bookHotList
+})
+
+
+// 获取同城33761011数据
+const commonCityData_3376 = require('../datas/commonCityData1.json')
+router.get('/commonCity/:id', ctx => {
+	ctx.body = commonCityData_3376
+})
+
 // 获取电影接口参数
 const moviesData = require('../datas/movies.json')
 router.get('/getMoviesData',(ctx) => {
