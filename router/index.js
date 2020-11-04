@@ -11,21 +11,19 @@ router.get('/test',(ctx,next) => {
 })
 
 
-//首页接口
-const indexData = require('../datas/index.json')
-router.get('/getIndexData',(ctx) => {
-	ctx.body = indexData
+//电影页面
+// 本周流行音乐人
+const imgMusicImgList = require('../datas/musicPopular.json')
+router.get('/getmusicImgList',ctx => {
+	ctx.body = imgMusicImgList
 })
 
-const cateData = require('../datas/categoryDatas.json')
-router.get('/getCateGoryData',ctx => {
-	ctx.body = cateData
+// 新碟榜
+const albumImgList = require('../datas/musicAlbum.json')
+router.get('/getalbumImgList',ctx => {
+	ctx.body = albumImgList
 })
 
-const indexCategoryList = require('../datas/indexCateList.json')
-router.get('/getIndexCateListData',ctx => {
-	ctx.body = indexCategoryList
-})
 
 router.get('/getOpenId',async ctx => {
 	let code = ctx.query.code

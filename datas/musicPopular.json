@@ -1,0 +1,108 @@
+[
+  {
+    "name": "本周流行音乐人",
+    "imgList": [
+      {
+        "id": 1,
+        "username": "Alternative for Baroque",
+        "type": "轻音乐 Easy Listening",
+        "imgUrl": "https://img9.doubanio.com/view/site/large/public/edbde7627d86924.jpg"
+      },
+      {
+        "id": 2,
+        "username": "祥树",
+        "type": "民谣 Folk",
+        "imgUrl": "https://img3.doubanio.com/view/site/large/public/1af954e5dd39f71.jpg"
+      },
+      {
+        "id": 3,
+        "username": "Uncle Hu",
+        "type": "摇滚 Rock",
+        "imgUrl": "https://img9.doubanio.com/view/site/large/public/cbd599b8b38afc5.jpg"
+      },
+      {
+        "id": 4,
+        "username": "朱芳琼",
+        "type": "民谣 Folk", 
+        "imgUrl": "https://img1.doubanio.com/view/site/large/public/e2ce922c78e82f8.jpg"
+      },
+      {
+        "id": 5,
+        "username": "zeldacrap",
+        "type": "民谣 Folk", 
+        "imgUrl": "https://img3.doubanio.com/view/site/large/public/5283c2d6b44137d.jpg"
+      },
+      {
+        "id": 6,
+        "username": "Mao Zhu",
+        "type": "古典 Classical", 
+        "imgUrl": "https://img2.doubanio.com/view/site/large/public/522cd37f789ceb2.jpg"
+      },
+      {
+        "id": 7,
+        "username": "nara",
+        "type": "轻音乐 Easy Listening", 
+        "imgUrl": "https://img1.doubanio.com/view/site/large/public/572b380f7813e48.jpg"
+      },
+      {
+        "id": 8,
+        "username": "Bo Penn",
+        "type": "电子 Electronica", 
+        "imgUrl": "https://img1.doubanio.com/view/site/large/public/23f12cb1404781c.jpg"
+      }
+    ]
+  },
+  {
+    "name": "上升最快音乐人",
+    "imgList": [
+      {
+        "id": 1,
+        "username": "Soil terrapin",
+        "type": "说唱 Rap",
+        "imgUrl": "https://img1.doubanio.com/view/site/large/public/901fbfef74e72b8.jpg"
+      },
+      {
+        "id": 2,
+        "username": "鞭子情人",
+        "type": "民谣 Folk",
+        "imgUrl": "https://img1.doubanio.com/view/site/large/public/fa6401f24691aa7.jpg"
+      },
+      {
+        "id": 3,
+        "username": "Ascension Music Group",
+        "type": "说唱 Rap",
+        "imgUrl": "https://img3.doubanio.com/view/site/large/public/322c03e03ee1260.jpg"
+      },
+      {
+        "id": 4,
+        "username": "包小静",
+        "type": "说唱 Rap", 
+        "imgUrl": "https://img9.doubanio.com/view/site/large/public/0e73b36c78226a4.jpg"
+      },
+      {
+        "id": 5,
+        "username": "德宏老爹",
+        "type": "说唱 Rap", 
+        "imgUrl": "https://img9.doubanio.com/view/site/large/public/4c46dd8ed229b34.jpg"
+      },
+      {
+        "id": 6,
+        "username": "罗艺恒",
+        "type": "流行 Pop", 
+        "imgUrl": "https://img1.doubanio.com/view/site/large/public/bbd9cceb8bcf598.jpg"
+      },
+      {
+        "id": 7,
+        "username": "英伦盒子",
+        "type": "民谣 Folk", 
+        "imgUrl": "https://img1.doubanio.com/view/site/large/public/bbd9cceb8bcf598.jpg"
+      },
+      {
+        "id": 8,
+        "username": "李蔓",
+        "type": "流行 Pop", 
+        "imgUrl": "https://img3.doubanio.com/view/site/large/public/e819cccd372d31e.jpg"
+      }
+    ]
+  }
+]
