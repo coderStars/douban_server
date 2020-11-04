@@ -1,0 +1,259 @@
+{
+    "r": 0,
+    "data": {
+        "total": 41,
+        "products": [{
+            "id": "175174",
+            "stock": 871,
+            "stock_filling": false,
+            "can_buy": true,
+            "is_pre_sale": false,
+            "sale_props_sort": {
+                "color": ["\u767d\u8272"],
+                "size_name": "\u6b3e\u5f0f",
+                "color_name": "\u989c\u8272",
+                "size": ["\u9006\u5411\u624b\u8868", "\u7845\u80f6\u8868\u5e26"]
+            },
+            "promote_price": "289",
+            "activity_image": "https://img2.doubanio.com/img/files/file-1603788103-2.jpg",
+            "title": "\u8c46\u74e3\u9006\u5411\u624b\u8868\u2014\u591a\u8272\u6b3e",
+            "url": "https://market.douban.com/campaign/watch_colourful?pos=feed_default_0",
+            "campaign_name": "watch_colourful?pos=feed_default_0",
+            "image": "https://img1.doubanio.com/view/dianpu_product_item/large/public/p25415947.jpg",
+            "tags": ["\u6700\u9ad8\u51cf40\u5143", "\u6ee1150\u51cf10"],
+            "price": "329",
+            "desc": "\u98ce\u683c\u4e0d\u8bbe\u9650 \u767d\u8272\u4e5f\u51fa\u5f69"
+        }, {
+            "id": "168433",
+            "stock": 2074,
+            "stock_filling": false,
+            "can_buy": true,
+            "is_pre_sale": false,
+            "sale_props_sort": {
+                "color": ["\u7ea2\u8272logo\u4e1d\u5370\u7537", "\u7eff\u8272logo\u4e1d\u5370\u7537", "\u7eff\u8272logo\u4e1d\u5370\u5973", "\u9ec4\u8272logo\u4e1d\u5370\u5973"],
+                "size_name": "\u5c3a\u5bf8",
+                "color_name": "\u989c\u8272",
+                "size": ["S(\u7537\u6b3e170-175/\u5973\u6b3e155-160)", "M(\u7537\u6b3e175-180/\u5973\u6b3e160-165)", "L(\u7537\u6b3e180-185/\u5973\u6b3e165-170)"]
+            },
+            "promote_price": "198",
+            "activity_image": "https://img3.doubanio.com/img/files/file-1602647246-0.jpg",
+            "title": "\u8c46\u732b\u536b\u8863",
+            "url": "https://market.douban.com/campaign/doumaosweater?pos=feed_default_1",
+            "campaign_name": "doumaosweater?pos=feed_default_1",
+            "image": "https://img1.doubanio.com/view/dianpu_product_item/large/public/p2052847.jpg",
+            "tags": ["\u6ee1150\u51cf10"],
+            "price": "198",
+            "desc": "\u539a\u6bdb\u5708\u9762\u6599\uff0c\u67d4\u8f6f\u8212\u9002                  "
+        }, {
+            "id": "175035",
+            "stock": 9204,
+            "stock_filling": false,
+            "can_buy": true,
+            "is_pre_sale": false,
+            "sale_props_sort": {
+                "color": ["\u68ee\u6797\u7eff", "\u6731\u7802\u7ea2", "\u661f\u7a7a\u84dd"],
+                "size_name": "\u5c3a\u5bf8",
+                "color_name": "\u989c\u8272",
+                "size": []
+            },
+            "promote_price": "88",
+            "activity_image": "https://img9.doubanio.com/img/files/file-1600770836-5.jpg",
+            "title": "\u8c46\u74e3\u8bfb\u4e66\u5468\u53862021",
+            "url": "https://market.douban.com/campaign/weeklycalendar2021?pos=feed_default_2",
+            "campaign_name": "weeklycalendar2021?pos=feed_default_2",
+            "image": "https://img9.doubanio.com/view/dianpu_product_item/large/public/p25401785.jpg",
+            "tags": ["\u6ee1150\u51cf10"],
+            "price": "88",
+            "desc": "\u7528\u4e66\u7c4d\u6807\u8bb0\u65f6\u5149"
+        }, {
+            "id": "174989",
+            "stock": 71273,
+            "stock_filling": false,
+            "can_buy": true,
+            "is_pre_sale": false,
+            "sale_props_sort": {
+                "color": ["\u68ee\u6797\u7eff", "\u6731\u7802\u7ea2", "\u661f\u7a7a\u84dd"],
+                "size_name": "\u5c3a\u5bf8",
+                "color_name": "\u989c\u8272",
+                "size": ["\u7ecf\u5178\u7248", "\u9650\u91cf\u6536\u85cf\u7248", "\u5957\u88c5\u793c\u76d2\u7248"]
+            },
+            "promote_price": "99",
+            "activity_image": "https://img3.doubanio.com/img/files/file-1600667570-0.jpg",
+            "title": "\u8c46\u74e3\u7535\u5f71\u65e5\u53862021",
+            "url": "https://market.douban.com/campaign/calendar2021?pos=feed_default_3",
+            "campaign_name": "calendar2021?pos=feed_default_3",
+            "image": "https://img9.doubanio.com/view/dianpu_product_item/large/public/p25401714.jpg",
+            "tags": ["\u6ee1150\u51cf10"],
+            "price": "99",
+            "desc": "\u65f6\u95f4\u662f\u7535\u5f71\u7684\u6838\u5fc3\u89d2\u8272                  "
+        }, {
+            "id": "174995",
+            "stock": 350,
+            "stock_filling": false,
+            "can_buy": true,
+            "is_pre_sale": false,
+            "sale_props_sort": {
+                "color": ["\u963f\u9ed1\u7535\u5f71\u624b\u529e\u2014\u6444\u5f71\u673a\u4e0d\u8981\u505c", "\u963f\u767d\u7535\u5f71\u624b\u529e\u2014\u7206\u7c73\u82b1\u4e4b\u5473"],
+                "size_name": "\u5c3a\u5bf8",
+                "color_name": "\u989c\u8272",
+                "size": []
+            },
+            "promote_price": "59",
+            "activity_image": "",
+            "title": "\u8c46\u732b\u7535\u5f71\u624b\u529e",
+            "url": "https://market.douban.com/campaign/doumaomoviefigure?pos=feed_default_4",
+            "campaign_name": "doumaomoviefigure?pos=feed_default_4",
+            "image": "https://img1.doubanio.com/view/dianpu_product_item/large/public/p25401837.jpg",
+            "tags": ["\u6ee1150\u51cf10"],
+            "price": "59",
+            "desc": "\u963f\u9ed1\u963f\u767d\u201c\u53d8\u8eab\u201d\u5bfc\u6f14\u5f71\u8ff7"
+        }, {
+            "id": "174996",
+            "stock": 366,
+            "stock_filling": false,
+            "can_buy": true,
+            "is_pre_sale": false,
+            "sale_props_sort": {
+                "color": ["\u68ee\u6797\u7eff", "\u6731\u7802\u7ea2", "\u661f\u7a7a\u84dd"],
+                "size_name": "\u5c3a\u5bf8",
+                "color_name": "\u989c\u8272",
+                "size": []
+            },
+            "promote_price": "76",
+            "activity_image": "",
+            "title": "\u8c46\u74e32021\u65e5\u7a0b\u672c",
+            "url": "https://market.douban.com/campaign/notebook2021?pos=feed_default_5",
+            "campaign_name": "notebook2021?pos=feed_default_5",
+            "image": "https://img2.doubanio.com/view/dianpu_product_item/large/public/p25401703.jpg",
+            "tags": ["\u6ee1150\u51cf10"],
+            "price": "76",
+            "desc": "\u9ad8\u6548\u89c4\u5212\u5168\u5e74\u65e5\u7a0b                  "
+        }, {
+            "id": "174881",
+            "stock": 9403,
+            "stock_filling": false,
+            "can_buy": true,
+            "is_pre_sale": false,
+            "sale_props_sort": {
+                "color": ["\u300a\u79cb\u591c\u300b\u6b3e", "\u300a\u793e\u620f\u300b\u6b3e", "\u300a\u94f8\u5251\u300b\u6b3e", "\u300a\u963f\u957f\u4e0e\u3008\u5c71\u6d77\u7ecf\u3009\u300b\u6b3e", "\u56db\u6b3e\u5957\u88c5"],
+                "size_name": "\u5c3a\u5bf8",
+                "color_name": "\u989c\u8272",
+                "size": []
+            },
+            "promote_price": "35",
+            "activity_image": "",
+            "title": "\u8c46\u74e3\u8bfb\u4e66\u4e66\u7b7e\u2014\u2014\u9c81\u8fc5\u7cfb\u5217",
+            "url": "https://market.douban.com/campaign/bookmarks_luxun?pos=feed_default_6",
+            "campaign_name": "bookmarks_luxun?pos=feed_default_6",
+            "image": "https://img9.doubanio.com/view/dianpu_product_item/large/public/p25401635.jpg",
+            "tags": ["\u6ee1150\u51cf10"],
+            "price": "35",
+            "desc": "\u6bcf\u4e00\u9875\u91cc\uff0c\u90fd\u5f97\u7740\u6df1\u539a\u7684\u8da3\u5473"
+        }, {
+            "id": "174888",
+            "stock": 798,
+            "stock_filling": false,
+            "can_buy": true,
+            "is_pre_sale": false,
+            "sale_props_sort": {
+                "color": ["\u77f3\u58a8\u9ed1"],
+                "size_name": "\u5c3a\u5bf8",
+                "color_name": "\u989c\u8272",
+                "size": []
+            },
+            "promote_price": "59",
+            "activity_image": "",
+            "title": "\u8c46\u74e3\u4e66\u7acb",
+            "url": "https://market.douban.com/campaign/bookends?pos=feed_default_7",
+            "campaign_name": "bookends?pos=feed_default_7",
+            "image": "https://img2.doubanio.com/view/dianpu_product_item/large/public/p25396483.jpg",
+            "tags": ["\u6ee1150\u51cf10"],
+            "price": "59",
+            "desc": "\u7ed9\u597d\u4e66\u4e00\u4e2a\u201c\u652f\u6491\u201d"
+        }, {
+            "id": "174804",
+            "stock": 3261,
+            "stock_filling": false,
+            "can_buy": true,
+            "is_pre_sale": false,
+            "sale_props_sort": {
+                "color": [],
+                "size_name": "\u5c3a\u5bf8",
+                "color_name": "\u989c\u8272",
+                "size": ["34\u7801", "35\u7801", "36\u7801", "37\u7801", "38\u7801", "39\u7801", "40\u7801", "41\u7801", "42\u7801", "43\u7801", "44\u7801", "45\u7801", "\u5973\u978b\u504f\u5927\u4e00\u7801\uff0c\u7537\u978b\u6b63\u7801"]
+            },
+            "promote_price": "178",
+            "activity_image": "https://img3.doubanio.com/img/files/file-1597677377-0.jpg",
+            "title": "\u8c46\u74e3X\u98de\u8dc3\u5e06\u5e03\u978b",
+            "url": "https://market.douban.com/campaign/feiyueshoes?pos=feed_default_8",
+            "campaign_name": "feiyueshoes?pos=feed_default_8",
+            "image": "https://img1.doubanio.com/view/dianpu_product_item/large/public/p25392297.jpg",
+            "tags": ["\u6ee1150\u51cf10"],
+            "price": "178",
+            "desc": "\u642d\u5f97\u521a\u521a\u597d                  "
+        }, {
+            "id": "174681",
+            "stock": 37645,
+            "stock_filling": false,
+            "can_buy": true,
+            "is_pre_sale": false,
+            "sale_props_sort": {
+                "color": ["\u5174\u8da3\u4e8c\u91cd\u594f", "\u7535\u5f71\u4ff1\u4e50\u90e8", "\u767e\u53d8\u65f6\u5149\u673a", "\u5348\u540e\u6ce2\u6ce2\u8336", "\u56db\u6b3e\u5957\u88c5"],
+                "size_name": "\u5c3a\u5bf8",
+                "color_name": "\u989c\u8272",
+                "size": []
+            },
+            "promote_price": "35",
+            "activity_image": "",
+            "title": "\u8c46\u732b\u51b0\u7bb1\u8d34",
+            "url": "https://market.douban.com/campaign/Fridgemagnet?pos=feed_default_9",
+            "campaign_name": "Fridgemagnet?pos=feed_default_9",
+            "image": "https://img1.doubanio.com/view/dianpu_product_item/large/public/p25386407.jpg",
+            "tags": ["\u6ee1150\u51cf10"],
+            "price": "35",
+            "desc": "\u6709\u6545\u4e8b\u7684\u51b0\u7bb1\u8d34"
+        }, {
+            "id": "174260",
+            "stock": 3989,
+            "stock_filling": false,
+            "can_buy": true,
+            "is_pre_sale": false,
+            "sale_props_sort": {
+                "color": ["A\u6b3e", "B\u6b3e", "C\u6b3e", "\u4e09\u6b3e\u5957\u88c5\uff08\u4e0d\u542b\u5fbd\u7ae0\u5899\uff09", "\u5fbd\u7ae0\u6536\u7eb3\u5899"],
+                "size_name": "\u5c3a\u5bf8",
+                "color_name": "\u989c\u8272",
+                "size": []
+            },
+            "promote_price": "35",
+            "activity_image": "",
+            "title": "\u7535\u5f71\u5fbd\u7ae0",
+            "url": "https://market.douban.com/campaign/moviebadge?pos=feed_default_10",
+            "campaign_name": "moviebadge?pos=feed_default_10",
+            "image": "https://img2.doubanio.com/view/dianpu_product_item/large/public/p25362822.jpg",
+            "tags": ["\u6ee1150\u51cf10"],
+            "price": "35",
+            "desc": "\u81f4\u656c\u5149\u5f71\u9020\u68a6\u8005"
+        }, {
+            "id": "174221",
+            "stock": 1140,
+            "stock_filling": false,
+            "can_buy": true,
+            "is_pre_sale": false,
+            "sale_props_sort": {
+                "color": ["\u9006\u5411\u624b\u8868", "\u66ff\u6362\u6b3e\u7845\u80f6\u8868\u5e26"],
+                "size_name": "\u5c3a\u5bf8",
+                "color_name": "\u6b3e\u5f0f",
+                "size": []
+            },
+            "promote_price": "329",
+            "activity_image": "https://img3.doubanio.com/img/files/file-1590742604-0.jpg",
+            "title": "\u8c46\u74e3\u9006\u5411\u624b\u8868",
+            "url": "https://market.douban.com/campaign/watch?pos=feed_default_11",
+            "campaign_name": "watch?pos=feed_default_11",
+            "image": "https://img9.doubanio.com/view/dianpu_product_item/large/public/p25360304.jpg",
+            "tags": ["\u6ee1150\u51cf10"],
+            "price": "329",
+            "desc": "\u6446\u8131\u201c\u60ef\u6027\u201d\uff0c\u9006\u52bf\u800c\u884c                  "
+        }]
+    }
+}
