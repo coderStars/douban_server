@@ -69,7 +69,7 @@ router.post('/getVerifyUserCode', async ctx => {
 			}
 		}else {
 			ctx.body = {
-				code:2001,
+				code:2000,
 				data: {username: '游客',telephone: ''},
 				message: '登录成功'
 			}
