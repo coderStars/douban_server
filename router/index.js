@@ -8,11 +8,9 @@ const fly=new Fly;
 
 const router = new KoaRouter();
 
-<<<<<<< HEAD
-=======
 // 获取电影接口参数
 const moviesData = require('../datas/movies.json')
-router.get('/getMoviesData',(ctx,moviesData) => {
+router.get('/getMoviesData',(ctx) => {
 	ctx.body=moviesData
 })
 
@@ -31,7 +29,6 @@ router.get('/getI',(ctx,tvsData) => {
 router.get('/test',(ctx,next) => {
 	ctx.body="测试test接口"
 })
->>>>>>> e4a222529b1ee416780d3d6213ffd105d6ce1123
 
 //验证码过期时间
 const PHONE_EXPIRES = 60 * 1000;
@@ -47,7 +44,7 @@ function getVerifyCode(len = 6) {
 }
 
 
-//电影页面
+//音乐页面
 // 本周流行音乐人
 const imgMusicImgList = require('../datas/musicPopular.json')
 router.get('/getmusicImgList',ctx => {
