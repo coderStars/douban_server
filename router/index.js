@@ -1,4 +1,3 @@
-const app = require('koa')
 const KoaRouter = require('koa-router');
 const Fly = require("flyio/src/node")
 const jwt = require('jsonwebtoken');
@@ -9,6 +8,40 @@ const fly=new Fly;
 
 const router = new KoaRouter();
 
+// 获得读书页右侧热门分类 
+const bookHotList = require('../datas/bookHotTag.json')
+router.get('/getBookHotList',ctx => {
+	ctx.body = bookHotList
+})
+
+
+// 获取同城33761011数据
+const commonCityData_3376 = require('../datas/commonCityData1.json')
+router.get('/commonCity/:id', ctx => {
+	ctx.body = commonCityData_3376
+})
+
+// 获取电影接口参数
+const moviesData = require('../datas/movies.json')
+router.get('/getMoviesData',(ctx) => {
+	ctx.body=moviesData
+})
+
+// 获取电影tags参数
+const mvKindsData = require('../datas/mvKinds.json')
+router.get('/getMvKindsData',(ctx,mvKindsData) => {
+	ctx.body=mvKindsData
+})
+
+// 获取点数据tags参数
+const tvsData = require('../datas/Tvs.json')
+router.get('/getI',(ctx,tvsData) => {
+	ctx.body=tvsData
+})
+
+router.get('/test',(ctx,next) => {
+	ctx.body="测试test接口"
+})
 
 //验证码过期时间
 const PHONE_EXPIRES = 60 * 1000;
@@ -24,7 +57,7 @@ function getVerifyCode(len = 6) {
 }
 
 
-//电影页面
+//音乐页面
 // 本周流行音乐人
 const imgMusicImgList = require('../datas/musicPopular.json')
 router.get('/getmusicImgList',ctx => {
@@ -69,7 +102,7 @@ router.post('/getVerifyUserCode', async ctx => {
 			}
 		}else {
 			ctx.body = {
-				code:2001,
+				code:2000,
 				data: {username: '游客',telephone: ''},
 				message: '登录成功'
 			}
