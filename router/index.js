@@ -6,6 +6,7 @@ const mysql = require('../mysql')
 const session_user = require("../session");
 const fly = new Fly;
 
+
 const router = new KoaRouter();
 
 // 获得读书页右侧热门分类 
@@ -14,9 +15,15 @@ router.get('/getBookHotList', ctx => {
 	ctx.body = bookHotList
 })
 
+//获取同城页面的数据
+const commonCityData = require('../datas/commonCity.json')
+router.get('/commonCityData', (ctx, next) => {
+	ctx.body = commonCityData
+})
 
-// 获取同城33761011数据
-const commonCityData_3376 = require('../datas/commonCityData1.json')
+
+// 获取同城演出详情的数据
+const commonCityData_3376 = require('../datas/commonCityShowDetail.json')
 router.get('/commonCity/:id', ctx => {
 	ctx.body = commonCityData_3376
 })
@@ -25,12 +32,6 @@ router.get('/commonCity/:id', ctx => {
 const moviesData = require('../datas/movies.json')
 router.get('/getMoviesData', (ctx) => {
 	ctx.body = moviesData
-})
-
-// 获取电影tags参数
-const mvKindsData = require('../datas/mvKinds.json')
-router.get('/getMvKindsData', (ctx, mvKindsData) => {
-	ctx.body = mvKindsData
 })
 
 // 获取点数据tags参数
@@ -68,6 +69,11 @@ router.get('/getmusicImgList', ctx => {
 const albumImgList = require('../datas/musicAlbum.json')
 router.get('/getalbumImgList', ctx => {
 	ctx.body = albumImgList
+})
+
+const musicRank = require('../datas/musicRank.json')
+router.get('/getmusicRank', ctx => {
+	ctx.body = musicRank
 })
 
 
@@ -154,8 +160,15 @@ router.post('/getVerifyUser', async ctx => {
 	}
 })
 
-router.get('/getAllShops', (ctx) => {
-	ctx.body('../datas/allCateData.json')
-})
+
+
+//豆品的数据接口
+const allShopDataList = require('../datas/allShopData.json');
+router.get('/getAllShopDataList', (ctx) => {
+	ctx.body = allShopDataList;
+});
+
+
+
 
 module.exports = router

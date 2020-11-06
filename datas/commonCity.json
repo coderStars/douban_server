@@ -1,0 +1,47 @@
+{
+    "id":"001",
+    "hotActivities":[
+        {"id":1,"imgUrl":"https://img9.doubanio.com/pview/event_poster/large/public/d84a41f978b7b05.jpg","text":"疯客与舞蹈”Click#15北京音..."},
+        {"id":2,"imgUrl":"https://img9.doubanio.com/pview/event_poster/large/public/60d33431a5169b5.jpg","text":"大型多媒体励志互动儿童剧《白..."},
+        {"id":3,"imgUrl":"https://img3.doubanio.com/pview/event_poster/large/public/3c98f40a5d78b7e.jpg","text":"话剧《丁西林戏剧三则》"},
+        {"id":4,"imgUrl":"https://img2.doubanio.com/pview/event_poster/large/public/92e02e8cf71b903.jpg","text":"国家大剧院“冬日之约”"},
+        {"id":5,"imgUrl":"https://img3.doubanio.com/pview/event_poster/large/public/9d771be470719ae.jpg","text":"给你更「好的闻西」达闻西全国..."},
+        {"id":6,"imgUrl":"https://img3.doubanio.com/pview/event_poster/large/public/fcf6df132e72f4e.jpg","text":"对角巷乐队2020“闪耀”巡演"},
+        {"id":7,"imgUrl":"https://img1.doubanio.com/pview/event_poster/large/public/46121bde4b3efa9.jpg","text":"大型多媒体励志互动儿童剧《白..."},
+        {"id":8,"imgUrl":"https://img1.doubanio.com/pview/event_poster/large/public/5d75071ca48e9ea.jpg","text":"话剧《丁西林戏剧三则》"},
+        {"id":9,"imgUrl":"https://img2.doubanio.com/pview/event_poster/large/public/92e02e8cf71b903.jpg","text":"「早鸟」“非物质/再物质：计..."},
+        {"id":10,"imgUrl":"https://img1.doubanio.com/pview/event_poster/large/public/262d0a89f5fd36a.jpg","text":"三拓旗剧团形体剧《水生》"},
+        {"id":11,"imgUrl":"https://img1.doubanio.com/pview/event_poster/large/public/572548d3ae1c2e8.jpg","text":"《Silent Hill》鬼才作曲家Aki..."},
+        {"id":12,"imgUrl":"https://img3.doubanio.com/pview/event_poster/large/public/10c5b0a20133e1d.jpg","text":"大型童话剧《丑小鸭》"},
+        {"id":13,"imgUrl":"https://img1.doubanio.com/pview/event_poster/large/public/3035be8a6523228.jpg","text":"唱给单身汪”主题演唱会"},
+        {"id":14,"imgUrl":"https://img3.doubanio.com/pview/event_poster/large/public/f39d2e72e89e660.jpg","text":"民风·民魂——民族音乐里的中..."},
+        {"id":15,"imgUrl":"https://img1.doubanio.com/pview/event_poster/large/public/6a99758d4a329ea.jpg","text":"镶嵌中国-马赛克艺术邀请展"}
+    ],
+    "tickets":[
+        {"id":1,"name":"小柯戏剧《想把我唱给您听》","time":"2019年12月24日 19:30 ~ 2020年11月15日 18:30","price":"¥ 105","imgUrl":"https://img3.doubanio.com/pview/event_poster/small/public/2cbd100d5370660.jpg"},
+        {"id":2,"name":"金曲视听音乐会","time":"11月14日 19:30-20:30","price":"¥ 79","imgUrl":"https://img3.doubanio.com/pview/event_poster/small/public/c6fcd59a0e352ed.jpg"},
+        {"id":3,"name":"话剧《回廊亭杀人事件》东野圭吾悬疑舞台剧","time":"12月18日 19:30 ~ 12月19日 21:30","price":"¥ 276","imgUrl":"https://img3.doubanio.com/pview/event_poster/small/public/9842ac429012b20.jpg"},
+        {"id":4,"name":"开心麻花爆笑舞台剧《婿事待发》","time":"11月24日 19:30 ~ 12月06日 21:30","price":"¥ 80","imgUrl":"https://img3.doubanio.com/pview/event_poster/small/public/ac15403d0742cf1.jpg"},
+        {"id":5,"name":"话剧《村里新来的年轻人》","time":"11月18日 19:30 ~ 11月22日 16:30","price":"¥ 103","imgUrl":"https://img1.doubanio.com/pview/event_poster/small/public/aa7289bc588d099.jpg"},
+        {"id":6,"name":" 孟京辉戏剧作品《一个陌生女人的来信》","time":"11月04日 19:30 ~ 11月15日 17:00","price":"¥ 160","imgUrl":"https://img1.doubanio.com/pview/event_poster/small/public/ff0f7ff9656b1bc.jpg"},
+        {"id":7,"name":"孟京辉戏剧作品《我爱xxx》","time":"11月25日 19:30 ~ 11月29日 17:0","price":"¥ 104","imgUrl":"https://img1.doubanio.com/pview/event_poster/small/public/9a6dcdaebb8c618.jpg"},
+        {"id":8,"name":"国家地理经典影像大展--北京站","time":"2021年03月20日 09:00 ~ 2021年06月20日 17:00","price":"¥ 72","imgUrl":"https://img2.doubanio.com/pview/event_poster/small/public/856269ecd193de3.jpg"},
+        {"id":9,"name":"贝莉缇之夜德云社郭德纲【下单立减40元】","time":"12月01日 19:30-21:30","price":"¥ 780","imgUrl":"https://img3.doubanio.com/pview/event_poster/small/public/0acc43858faba6e.jpg"},
+        {"id":10,"name":"舞剧《孔子》","time":"11月20日 19:30 ~ 11月21日 21:00","price":"¥ 80","imgUrl":"https://img3.doubanio.com/pview/event_poster/small/public/72b2c99167622bd.jpg"}
+    ],
+    "userInfo":[
+        {"id":1,"imgUrl":"https://img1.doubanio.com/view/site/small/public/b7260c362b9e7fb.jpg","name":"北京你也来了鼓俱乐部"},
+        {"id":2,"imgUrl":"https://img1.doubanio.com/view/site/small/public/b7260c362b9e7fb.jpg","name":"西西弗书店—重庆"},
+        {"id":3,"imgUrl":"https://img1.doubanio.com/view/site/small/public/9742369a1f01509.jpg","name":"井叹号工作室"},
+        {"id":4,"imgUrl":"https://img9.doubanio.com/view/site/small/public/ff34559256015a6.jpg","name":"单向空间（原单向街·图书馆）"},
+        {"id":5,"imgUrl":"https://img1.doubanio.com/view/site/small/public/d5e76ad0d5624e7.jpg","name":"票牛"}
+    ],
+    "showDetail":[
+        {"id":1,"name":"鼓楼西特邀·《非常悬疑》","imgUrl":"https://img1.doubanio.com/pview/event_poster/median/public/92a60f9a5b1b2e7.jpg"},
+        {"id":2,"name":"爆笑「脱口秀」激情live之夜！高速开车，疯狂解压！","imgUrl":"https://img2.doubanio.com/pview/event_poster/median/public/752af46ee6e7f62.jpg"},
+        {"id":3,"name":"京剧《荀灌娘》《三堂会审》","imgUrl":"https://img1.doubanio.com/pview/event_poster/median/public/505e538531e37d9.jpg"},
+        {"id":4,"name":"北京周六爱笑大会~脱口秀争霸赛","imgUrl":"https://img2.doubanio.com/pview/event_poster/median/public/8fdf5a6399e2aa2.jpg"},
+        {"id":5,"name":"北京京剧院流派经典剧目展演","imgUrl":"https://img9.doubanio.com/pview/event_poster/median/public/1f4635a54721054.jpg"},
+        {"id":6,"name":"中国国家话剧院演出 话剧《人民至上》","imgUrl":"https://img1.doubanio.com/pview/event_poster/median/public/b4f048a7e70dc88.jpg"}
+    ]
+}
