@@ -14,6 +14,11 @@ router.get('/getBookHotList',ctx => {
 	ctx.body = bookHotList
 })
 
+// 获取新书速递数据
+const newBooksList = require('../datas/booksInfo.json')
+router.get('/getNewsBooksList',ctx=>{
+	ctx.body = newBooksList
+})
 
 // 获取同城33761011数据
 const commonCityData_3376 = require('../datas/commonCityData1.json')
