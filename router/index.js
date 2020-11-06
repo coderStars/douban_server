@@ -33,12 +33,6 @@ router.get('/getMoviesData',(ctx) => {
 	ctx.body=moviesData
 })
 
-// 获取电影tags参数
-const mvKindsData = require('../datas/mvKinds.json')
-router.get('/getMvKindsData',(ctx,mvKindsData) => {
-	ctx.body=mvKindsData
-})
-
 // 获取点数据tags参数
 const tvsData = require('../datas/Tvs.json')
 router.get('/getI',(ctx,tvsData) => {
