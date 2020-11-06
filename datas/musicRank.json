@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "最热单曲榜",
+    "imgInfoList": [
+      {
+        "id": 1,
+        "imgUrl": "https://img1.doubanio.com/view/site/small//public//2849eb8d94b0458.jpg",
+        "title": "Gasp Between the Clicks",
+        "name": "Uncle Hu / 769次播放",
+        "dataTime": "(上榜6天)"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https://img1.doubanio.com/view/site/small//public//eff495239b4a32c.jpg",
+        "title": "你的天空可晴朗",
+        "name": "zeldacrap / 319次播放",
+        "dataTime": "(上榜3天)"
+      },
+      {
+        "id": 3,
+        "imgUrl": "https://img9.doubanio.com/view/site/small//public//2594de49af52f55.jpg",
+        "title": "Jardin d'hiver + I will wait for you (feat. [已注销])",
+        "name": "Alternative for Baroque / 1376次播放",
+        "dataTime": "(上榜10天)"
+      },
+      {
+        "id": 4,
+        "imgUrl": "https://img2.doubanio.com/view/site/small//public/69747b90d35f332.jpg",
+        "title": "上西天",
+        "name": "朱芳琼 / 288次播放",
+        "dataTime": "(上榜6天)"
+      },
+      {
+        "id": 5,
+        "imgUrl": "https://img2.doubanio.com/view/site/small/public/ddfd0badef4bfff.jpg",
+        "title": "第一炉香-预告背景音乐",
+        "name": "PotterUrie / 706次播放",
+        "dataTime": "(上榜6天)"
+      },
+      {
+        "id": 6,
+        "imgUrl": "https://img9.doubanio.com/view/site/small/public/2f26971abba7d66.jpg",
+        "title": "Thank you for Loving me",
+        "name": "Shadow喜欢柠檬 / 2815次播放",
+        "dataTime": "(上榜17天)"
+      },
+      {
+        "id": 7,
+        "imgUrl": "https://img3.doubanio.com/view/site/small/public/89bab948712697e.jpg",
+        "title": "骏马谣（翻自王喂马)",
+        "name": "祥树 / 1116次播放",
+        "dataTime": "(上榜15天)"
+      },
+      {
+        "id": 8,
+        "imgUrl": "https://img2.doubanio.com/view/site/small/public/ccf3723e8abaa72.jpg",
+        "title": "佳人曲-用于童丽《古诗词遇见童丽》",
+        "name": "小公-Key / 293次播放",
+        "dataTime": "(上榜3天)"
+      },
+      {
+        "id": 9,
+        "imgUrl": "https://img2.doubanio.com/view/site/small//public/69747b90d35f332.jpg",
+        "title": "渺小尘埃（600）",
+        "name": "博友文化音乐工作室 / 86次播放",
+        "dataTime": "(上榜3天)"
+      },
+      {
+        "id": 10,
+        "imgUrl": "https://img3.doubanio.com/view/site/small/public/78077599411215d.jpg",
+        "title": "01. 无人居住 Forsaken（齐洁+杜星佑）",
+        "name": "Mao Zhu / 103次播放",
+        "dataTime": "(上榜3天)"
+      },{
+        "id": 11,
+        "imgUrl": "https://img2.doubanio.com/view/site/small//public/69747b90d35f332.jpg",
+        "title": "Surround (demo)",
+        "name": "TheClaptraps / 39次播放",
+        "dataTime": "(上榜6天)"
+      },
+      {
+        "id": 12,
+        "imgUrl": "https://img2.doubanio.com/view/site/small//public/69747b90d35f332.jpg",
+        "title": "The Road Not Taken",
+        "name": "蜜獾耳朵 / 843次播放",
+        "dataTime": "(上榜17天)"
+      },
+      {
+        "id": 13,
+        "imgUrl": "https://img2.doubanio.com/view/site/small//public/69747b90d35f332.jpg",
+        "title": "2020.4.18_karaoke by a middle-aged man in changying park",
+        "name": "nara / 615次播放",
+        "dataTime": "(上榜15天)"
+      },{
+        "id": 14,
+        "imgUrl": "https://img2.doubanio.com/view/site/small//public/69747b90d35f332.jpg",
+        "title": "Obsession 1992",
+        "name": "Bo Penn / 634次播放",
+        "dataTime": "(上榜6天)"
+      },{
+        "id": 15,
+        "imgUrl": "https://img2.doubanio.com/view/site/small//public/69747b90d35f332.jpg",
+        "title": "Drum Machine Market 3 ",
+        "name": "Milkmustache / 87次播放",
+        "dataTime": "(上榜13天)"
+      },{
+        "id": 16,
+        "imgUrl": "https://img2.doubanio.com/view/site/small//public/69747b90d35f332.jpg",
+        "title": "坐下来抽一支烟-2020.10 ",
+        "name": "我爱陈绮贞 / 524次播放",
+        "dataTime": "(上榜6天)"
+      },{
+        "id": 17,
+        "imgUrl": "https://img2.doubanio.com/view/site/small//public/69747b90d35f332.jpg",
+        "title": "川江布鲁斯 川中茶",
+        "name": "104次播放",
+        "dataTime": "(上榜10天)"
+      },{
+        "id": 18,
+        "imgUrl": "https://img2.doubanio.com/view/site/small//public/69747b90d35f332.jpg",
+        "title": "鬼切",
+        "name": "SakyoStan / 84次播放",
+        "dataTime": "(上榜6天)"
+      },{
+        "id": 19,
+        "imgUrl": "https://img2.doubanio.com/view/site/small//public/69747b90d35f332.jpg",
+        "title": "超级小栗子（新版）",
+        "name": "Captain Q / 88次播放",
+        "dataTime": "(上榜10天)"
+      },{
+        "id": 20,
+        "imgUrl": "https://img2.doubanio.com/view/site/small//public/69747b90d35f332.jpg",
+        "title": "Stuck in a Groove",
+        "name": "Cottonseed / 1389次播放",
+        "dataTime": "(上榜22天)"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "豆瓣新碟榜 ",
+    "info": [
+      {
+        "id": 1,
+        "name": "positions",
+        "title": "爱莉安娜·格兰德 Ariana Grande",
+        "time": "上榜5天"
+      },
+      {
+        "id": 2,
+        "name": "집 Eyes wide open",
+        "title": "TWICE",
+        "time": "上榜8天"
+      },
+      {
+        "id": 3,
+        "name": "Love Goes",
+        "title": "Sam Smith",
+        "time": "上榜5天"
+      },
+      {
+        "id": 4,
+        "name": "π-volume.4",
+        "title": "鹿晗 Luhan",
+        "time": "上榜7天"
+      },
+      {
+        "id": 5,
+        "name": "幸存者 Drifter",
+        "title": "林俊杰 JJ Lin",
+        "time": "上榜15天"
+      },
+      {
+        "id": 6,
+        "name": "Soft Storm",
+        "title": "落日飛車 Sunset Rollercoaster",
+        "time": "上榜4天"
+      },
+      {
+        "id": 7,
+        "name": "7TAKE",
+        "title": "MINO",
+        "time": "上榜4天"
+      },
+      {
+        "id": 8,
+        "name": "册叶一：一与一",
+        "title": "吴青峰",
+        "time": "上榜18天"
+      },
+      {
+        "id": 9,
+        "name": "末日遺緒",
+        "title": "陈升",
+        "time": "上榜19天"
+      },
+      {
+        "id": 10,
+        "name": "爱·不爱",
+        "title": "孟美岐 Meng Meiqi",
+        "time": "上榜3天"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "流行音乐人",
+    "imgInfoList": [
+      {
+        "id": 1,
+        "title": "zeldacrap",
+        "type": "流派: 民谣 Folk",
+        "view": "397人关注",
+        "imgUrl": "https://img1.doubanio.com/view/site/small/public//eff495239b4a32c.jpg"
+      },
+      {
+        "id": 2,
+        "title": "朱芳琼",
+        "type": "流派: 民谣 Folk",
+        "view": "2313人关注",
+        "imgUrl": "https://img2.doubanio.com/view/site/small//public/69747b90d35f332.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Alternative for Baroque",
+        "type": "流派: 轻音乐 Easy Listening",
+        "view": "494人关注",
+        "imgUrl": "https://img9.doubanio.com/view/site/small//public/2594de49af52f55.jpg"
+      },
+      {
+        "id": 4,
+        "title": "祥树",
+        "type": "流派: 民谣 Folk",
+        "view": "203人关注",
+        "imgUrl": "https://img3.doubanio.com/view/site/small//public/89bab948712697e.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Uncle Hu",
+        "type": "流派: 摇滚 Rock",
+        "view": "1004人关注",
+        "imgUrl": "https://img1.doubanio.com/view/site/small//public/2849eb8d94b0458.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Mao Zhu",
+        "type": "流派: 古典 Classical",
+        "view": "99人关注",
+        "imgUrl": "https://img3.doubanio.com/view/site/small//public/78077599411215d.jpg"
+      },
+      {
+        "id": 7,
+        "title": "nara",
+        "type": "流派: 轻音乐 Easy Listening",
+        "view": "829人关注",
+        "imgUrl": "https://img1.doubanio.com/view/site/small//public/d59a0ef957344ca.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Bo Penn",
+        "type": "流派: 电子 Electronica",
+        "view": "180人关注",
+        "imgUrl": "https://img1.doubanio.com/view/site/small//public/1f3ec69eeb11c3a.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Cottonseed",
+        "type": "流派: 流行 Pop",
+        "view": "108人关注",
+        "imgUrl": "https://img1.doubanio.com/view/site/small//public/fe37a2ac829d0f8.jpg"
+      },
+      {
+        "id": 10,
+        "title": "我爱陈绮贞",
+        "type": "流派: 流行 Pop",
+        "view": "7494人关注",
+        "imgUrl": "https://img9.doubanio.com/view/site/small//public/a6504788187af24.jpg"
+      }
+    ]
+  }
+]

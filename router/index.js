@@ -70,6 +70,11 @@ router.get('/getalbumImgList',ctx => {
 	ctx.body = albumImgList
 })
 
+const musicRank = require('../datas/musicRank.json')
+router.get('/getmusicRank',ctx => {
+	ctx.body = musicRank
+})
+
 
 //手机验证码
 router.post('/digits',ctx => {
