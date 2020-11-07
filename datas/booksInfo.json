@@ -1,0 +1,337 @@
+[
+    {
+        "id": 1,
+        "name": "不平等的尸体",
+        "author": "[日] 西尾元",
+        "imgUrl": "https://img3.doubanio.com/view/subject/s/public/s33723840.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+
+    },
+    {
+        "id": 2,
+        "name": "蜘蛛女之吻",
+        "author": "[阿根廷] 曼努埃尔·普伊格",
+        "imgUrl": "https://img9.doubanio.com/view/subject/s/public/s33749255.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 3,
+        "name": "烧船",
+        "author": "[日] 宫本辉",
+        "imgUrl": "https://img3.doubanio.com/view/subject/s/public/s33741751.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 4,
+        "name": "李美真",
+        "author": "孔亚雷",
+        "imgUrl": "https://img9.doubanio.com/view/subject/s/public/s33745255.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 5,
+        "name": "郭初阳的语文课",
+        "author": "郭初阳",
+        "imgUrl": "https://img1.doubanio.com/view/subject/s/public/s33705199.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 6,
+        "name": "月桂树已砍尽",
+        "author": "法）爱德华·迪雅丹 / （法）瓦莱里·拉博",
+        "imgUrl": "https://img1.doubanio.com/view/subject/s/public/s33748798.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 7,
+        "name": "馅饼盒子",
+        "author": "米哈",
+        "imgUrl": "https://img3.doubanio.com/view/subject/s/public/s33742490.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 8,
+        "name": "奇遇之年",
+        "author": "[英]克莱门西·伯顿-希尔",
+        "imgUrl": "https://img9.doubanio.com/view/subject/s/public/s33734465.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 9,
+        "name": "不平等的尸体",
+        "author": "[日] 西尾元",
+        "imgUrl": "https://img3.doubanio.com/view/subject/s/public/s33723840.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 10,
+        "name": "九故事",
+        "author": "大头马",
+        "imgUrl": "https://img1.doubanio.com/view/subject/s/public/s33734677.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 11,
+        "name": "奇遇之年",
+        "author": "[英]克莱门西·伯顿-希尔",
+        "imgUrl": "https://img9.doubanio.com/view/subject/s/public/s33734465.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 12,
+        "name": "不平等的尸体",
+        "author": "[日] 西尾元",
+        "imgUrl": "https://img3.doubanio.com/view/subject/s/public/s33723840.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 13,
+        "name": "九故事",
+        "author": "大头马",
+        "imgUrl": "https://img1.doubanio.com/view/subject/s/public/s33734677.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 14,
+        "name": "郭初阳的语文课",
+        "author": "郭初阳",
+        "imgUrl": "https://img1.doubanio.com/view/subject/s/public/s33705199.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 15,
+        "name": "不平等的尸体",
+        "author": "[日] 西尾元",
+        "imgUrl": "https://img3.doubanio.com/view/subject/s/public/s33723840.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 16,
+        "name": "蜘蛛女之吻",
+        "author": "[阿根廷] 曼努埃尔·普伊格",
+        "imgUrl": "https://img9.doubanio.com/view/subject/s/public/s33749255.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 17,
+        "name": "馅饼盒子",
+        "author": "米哈",
+        "imgUrl": "https://img3.doubanio.com/view/subject/s/public/s33742490.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 18,
+        "name": "奇遇之年",
+        "author": "[英]克莱门西·伯顿-希尔",
+        "imgUrl": "https://img9.doubanio.com/view/subject/s/public/s33734465.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 19,
+        "name": "烧船",
+        "author": "[日] 宫本辉",
+        "imgUrl": "https://img3.doubanio.com/view/subject/s/public/s33741751.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 20,
+        "name": "李美真",
+        "author": "孔亚雷",
+        "imgUrl": "https://img9.doubanio.com/view/subject/s/public/s33745255.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 21,
+        "name": "郭初阳的语文课",
+        "author": "郭初阳",
+        "imgUrl": "https://img1.doubanio.com/view/subject/s/public/s33705199.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 22,
+        "name": "不平等的尸体",
+        "author": "[日] 西尾元",
+        "imgUrl": "https://img3.doubanio.com/view/subject/s/public/s33723840.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 23,
+        "name": "蜘蛛女之吻",
+        "author": "[阿根廷] 曼努埃尔·普伊格",
+        "imgUrl": "https://img9.doubanio.com/view/subject/s/public/s33749255.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 24,
+        "name": "馅饼盒子",
+        "author": "米哈",
+        "imgUrl": "https://img3.doubanio.com/view/subject/s/public/s33742490.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 25,
+        "name": "奇遇之年",
+        "author": "[英]克莱门西·伯顿-希尔",
+        "imgUrl": "https://img9.doubanio.com/view/subject/s/public/s33734465.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 26,
+        "name": "烧船",
+        "author": "[日] 宫本辉",
+        "imgUrl": "https://img3.doubanio.com/view/subject/s/public/s33741751.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 27,
+        "name": "馅饼盒子",
+        "author": "米哈",
+        "imgUrl": "https://img3.doubanio.com/view/subject/s/public/s33742490.jpg",
+        "skuPrice":32,
+        "skuNum":1,
+        "isChecked":true
+    },
+    {
+        "id": 28,
+        "name": "奇遇之年",
+        "author": "[英]克莱门西·伯顿-希尔",
+        "imgUrl": "https://img9.doubanio.com/view/subject/s/public/s33734465.jpg",
+        "skuPrice":32
+    },
+    {
+        "id": 29,
+        "name": "烧船",
+        "author": "[日] 宫本辉",
+        "imgUrl": "https://img3.doubanio.com/view/subject/s/public/s33741751.jpg",
+        "skuPrice":32
+    },
+    {
+        "id": 30,
+        "name": "九故事",
+        "author": "大头马",
+        "imgUrl": "https://img1.doubanio.com/view/subject/s/public/s33734677.jpg",
+        "skuPrice":32
+    },
+    {
+        "id": 31,
+        "name": "郭初阳的语文课",
+        "author": "郭初阳",
+        "imgUrl": "https://img1.doubanio.com/view/subject/s/public/s33705199.jpg",
+        "skuPrice":32
+    },
+    {
+        "id": 32,
+        "name": "不平等的尸体",
+        "author": "[日] 西尾元",
+        "imgUrl": "https://img3.doubanio.com/view/subject/s/public/s33723840.jpg",
+        "skuPrice":32
+    },
+    {
+        "id": 33,
+        "name": "不平等的尸体",
+        "author": "[日] 西尾元",
+        "imgUrl": "https://img3.doubanio.com/view/subject/s/public/s33723840.jpg",
+        "skuPrice":32
+    },
+    {
+        "id": 34,
+        "name": "九故事",
+        "author": "大头马",
+        "imgUrl": "https://img1.doubanio.com/view/subject/s/public/s33734677.jpg",
+        "skuPrice":32
+    },
+    {
+        "id": 35,
+        "name": "郭初阳的语文课",
+        "author": "郭初阳",
+        "imgUrl": "https://img1.doubanio.com/view/subject/s/public/s33705199.jpg",
+        "skuPrice":32
+    },
+    {
+        "id": 36,
+        "name": "馅饼盒子",
+        "author": "米哈",
+        "imgUrl": "https://img3.doubanio.com/view/subject/s/public/s33742490.jpg",
+        "skuPrice":32
+    },
+    {
+        "id": 37,
+        "name": "奇遇之年",
+        "author": "[英]克莱门西·伯顿-希尔",
+        "imgUrl": "https://img9.doubanio.com/view/subject/s/public/s33734465.jpg",
+        "skuPrice":32
+    },
+    {
+        "id": 38,
+        "name": "不平等的尸体",
+        "author": "[日] 西尾元",
+        "imgUrl": "https://img3.doubanio.com/view/subject/s/public/s33723840.jpg",
+        "skuPrice":32
+    },
+    {
+        "id": 39,
+        "name": "九故事",
+        "author": "大头马",
+        "imgUrl": "https://img1.doubanio.com/view/subject/s/public/s33734677.jpg",
+        "skuPrice":32
+    },
+    {
+        "id": 40,
+        "name": "馅饼盒子",
+        "author": "米哈",
+        "imgUrl": "https://img3.doubanio.com/view/subject/s/public/s33742490.jpg",
+        "skuPrice":32
+    }
+]

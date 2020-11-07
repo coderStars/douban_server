@@ -15,6 +15,31 @@ router.get('/getBookHotList', ctx => {
 	ctx.body = bookHotList
 })
 
+// 获取新书速递数据
+const newBooksList = require('../datas/booksInfo.json')
+router.get('/getNewsBooksList', ctx => {
+	ctx.body = newBooksList
+})
+
+//获得某个新书的数据
+router.get('/getNewsBooksList/:id', ctx => {
+	let booksInfo = newBooksList.find(item => {
+		return item.id === +ctx.params.id
+	})
+	if (booksInfo) {
+		ctx.body = {
+			code: 2000,
+			data: booksInfo
+		}
+	} else {
+		ctx.body = {
+			code: 2001,
+			data: {}
+		}
+	}
+
+})
+
 //获取同城页面的数据
 const commonCityData = require('../datas/commonCity.json')
 router.get('/commonCityData', (ctx, next) => {
