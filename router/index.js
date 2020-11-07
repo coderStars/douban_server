@@ -162,12 +162,18 @@ router.post('/getVerifyUser', async ctx => {
 
 
 
-//豆品的数据接口
+//豆品下全部商品的数据接口
 const allShopDataList = require('../datas/allShopData.json');
 router.get('/getAllShopDataList', (ctx) => {
 	ctx.body = allShopDataList;
 });
 
+
+//豆品主页的数据接口
+const maindoupinDataList = require('../datas/maindoupinData.json');
+router.get('/getMaindoupinDataList', (ctx) => {
+	ctx.body = maindoupinDataList;
+});
 
 
 
