@@ -1,30 +1,195 @@
-{
-  "id": "33761011",
-  "title": "开心麻花爆笑舞台剧《谈判专家》 第9轮",
-  "data": "11月05日 周四 19:30 ~ 11月15日 周日 21:30",
-  "other": "活动结束时间以实际活动为准",
-  "address": "北京 海淀剧院 海淀路黄庄84号(人民大学向北)",
-  "money": "80 - 1134元",
-  "type": "戏剧-话剧",
-  "infoOrigin": "票牛",
-  "exerciseDetail": {
-    "title": "活动详情",
-    "name": "购买须知：限购说明：每单限购6张 座位类型：请按门票对应座位，有序对号入座 儿童入场提示 ：1.2米以上凭票入场，1.2米以下谢绝入场禁止携带物品：食品、饮料、相机、充电宝、打火机等 电子票 ：本项目支持凭电子票入场。-请至少提前一天购买，用户下单后24小时内，票牛会发送取票短信，请按短信提示内容取票。",
-    "imgInfo": {
-      "small": "https://img9.doubanio.com/pview/event_poster/plarge/public/99b3ba40e7c1515.jpg",
-      "longImg":"https://img3.doubanio.com/view/page_note/large/public/p100148960-1.jpg"
+
+  [
+    {"id":1,
+      "title":"“疯客与舞蹈”Click#15北京音乐会",
+      "data":"11月13日 周五 19:30-21:00",
+      "address":" 北京 北京展览馆剧场 北京西城区西直门外大街135号",
+      "money":"132 - 399元",
+      "type":" 音乐-音乐会",
+      " ":"票牛",
+      "other":"活动结束时间以实际活动为准",
+      "num1":10,
+      "num2":3,
+      "exerciseDetail": {
+        "title": "活动详情",
+        "name": "购买须知：限购说明：每单限购6张 座位类型：请按门票对应座位，有序对号入座 儿童入场提示：儿童一律凭票入场实体票：本项目支持凭实体票入场，支持以下取票方式： - 快递配送：运费10元(V4及以上会员包邮)，顺丰发货。 -现场取票：票牛工作人员将在演出开场前1小时至现场派票。工作人员联系方式、具体取票地点将在演出当天以短信通知发送至预留的手机号。演出介绍  2020第六届北京国际流行音乐周系列活动疯客与舞蹈Click#15北京音乐会",
+        "imgInfo": {
+          "small": "https://img9.doubanio.com/pview/event_poster/plarge/public/d84a41f978b7b05.jpg",
+          "longImg":"https://img3.doubanio.com/view/page_note/large/public/p100140362-1.jpg"
+        }
+      },
+      "nearEImgListDetail": [
+        {"id": 1,"name":"崇礼滑雪，免费教学，双板，单板滑雪，周末户外活动！", "imgUrl": "https://img2.doubanio.com/pview/event_poster/large/public/6a27fbf2eceb382.jpg"},
+        {"id": 2,"name":"#免费演出#【遇见喜剧脱口秀】每周二 ...", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/acd8abbb6caa1ee.jpg"},  
+          
+        {"id": 3,"name":"红叶疯了，行摄之旅-坡峰岭看层林尽染", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/5c5c7bbd6f0831d.jpg"},
+        {"id": 4,"name":"都在室内，【保龄球】和【高尔夫】哪...", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/be20d837956b7aa.jpg"},
+        {"id": 5,"name":"“学中玩、玩中会”舞蹈新体验，2020...", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/c511fa535057e97.jpg"},
+        {"id": 6,"name":"#免费演出#【笑坊脱口秀】每周一蘑菇...", "imgUrl": "https://img2.doubanio.com/pview/event_poster/large/public/fd9b71d60c4157f.jpg"},
+        {"id": 7,"name":"宠魅交友·疫情之下拒绝孤单！【免费...", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/43561e3e660651d.jpg"},
+        {"id": 8,"name":"喝着咖啡做着陶 将文艺进行到底︱周末...", "imgUrl": "https://img9.doubanio.com/pview/event_poster/large/public/a29073031e7e286.jpg"}
+      ]
+    },
+    {"id":2 ,
+      "title":"大型多媒体励志互动儿童剧《白雪公主》",
+      "data":"10月04日 周日 10:30 ~ 12月27日 周日 11:30",
+      "address":" 北京 中国儿童中心剧院 西城区平安里西大街43号",
+      "money":"100 - 409元",
+      "type":" 亲子",
+      "infoOrigin":"票牛",
+      "other":"活动结束时间以实际活动为准",
+      "num1":3,
+      "num2":0,
+      "exerciseDetail": {
+        "title": "活动详情",
+        "name": "购买须知：限购说明：每单限购6张 座位类型：请按门票对应座位，有序对号入座 儿童入场提示 ：儿童一律凭票入场实体票：本项目支持凭实体票入场，支持以下取票方式： -现场取票：票牛工作人员将在演出开场前1小时至现场派票。工作人员联系方式、具体取票地点将在演出当天以短信通知发送至预留的手机号。 剧目介绍百年经典，一样的故事，不一样的角度 全新演绎《白雪公主》的历险旅程。根据世界著名的《格林童话》改编的《白雪公主》，不仅遵循了原故事的趣味性和可看性，更是添加了新鲜的现代元素，让孩子们可以不仅仅是看，更多的可以参与到整个剧目当中，成为这个世界经典童话故事中的一员。很久很久以前在一个遥远的城堡，在大雪纷飞的时候诞生了一位可爱的小公主，她有雪一样白的皮肤，血一样鲜红的嘴唇，乌檀木一样漆黑的头发，这就是美丽善良的白雪公主。可是白雪公主出生后不久，她的亲生母亲就去世了，国王为了白雪公主不缺乏母爱，又迎娶了一位漂亮的新皇后。但是这个新皇后充满了邪恶与嫉妒，她有一面魔法镜子，每日都会询问谁是世界上最美丽的女人。毫无疑问白雪公主成为了这个世界上最美丽的女人，恶毒的皇后要将她杀死神奇的魔镜，沾满毒汁的红苹果，机灵古怪风趣可爱的小矮人，善良勇敢的森林小动物，我们的白雪公主危在旦夕，可爱的森林小精灵们，让我们一起拯救公主，向邪恶与嫉妒宣战！小朋友们让我一起帮助白雪公主打败邪恶的皇后！让我们一起来做快乐的森林小精灵！购票须知 限购规则* 每笔订单最多购买6张 退票/换票规则* 票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。 儿童购票* 儿童一律凭票入场   实名购票规则* 一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/护照/军官证/身份证/港澳居民来往内地通行证 观演须知 演出时长* 约60分钟，仅供参考，最终以现场实际时长为准 入场时间* 请于开始前约30分钟入场 禁止携带物品* 由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。 寄存说明* 无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+        "imgInfo": {
+          "small": "https://img9.doubanio.com/pview/event_poster/plarge/public/60d33431a5169b5.jpg",
+          "longImg":"https://img9.doubanio.com/pview/event_poster/plarge/public/60d33431a5169b5.jpg"
+        }
+      },
+      "nearEImgListDetail": [
+        {"id": 1,"name":"口碑佳作《气球》超前观影＋导演万玛...", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/ea64cc010c544eb.jpg"},
+        {"id": 2,"name":"话剧《回廊亭杀人事件》东野圭吾悬疑...", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/9842ac429012b20.jpg"},
+        {"id": 3,"name":"【冰雪梦幻7日】滑雪+徒步梦幻雪山镜...", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/215f6e4e6cc3ef7.jpg"},
+        {"id": 4,"name":"自由随心舞出我人生！——让你拥有听...  ", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/ce44c1f3f385027.jpg"},
+        {"id": 5,"name":"舞剧《孔子》", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/72b2c99167622bd.jpg"},
+        {"id": 6,"name":"#免费演出#【遇见喜剧脱口秀】每周二 ...", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/acd8abbb6caa1ee.jpg"},
+        {"id": 7,"name":"都在室内，【保龄球】和【高尔夫】哪...", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/be20d837956b7aa.jpg"},
+        {"id": 8,"name":"贝莉缇之夜德云社郭德纲【下单立减40元】", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/0acc43858faba6e.jpg"},
+        {"id": 9,"name":"“学中玩、玩中会”舞蹈新体验，2020...", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/c511fa535057e97.jpg"},
+        {"id": 10,"name":"宠魅交友·疫情之下拒绝孤单！【免费...", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/43561e3e660651d.jpg"}
+      ]
+    },
+    {"id": 3,
+      "title": "开心麻花爆笑舞台剧《谈判专家》 第9轮",
+      "data": "11月05日 周四 19:30 ~ 11月15日 周日 21:30",
+      "other": "活动结束时间以实际活动为准",
+      "address": "北京 海淀剧院 海淀路黄庄84号(人民大学向北)",
+      "money": "80 - 1134元",
+      "type": "戏剧-话剧",
+      "infoOrigin": "票牛",
+      "exerciseDetail": {
+        "title": "活动详情",
+        "name": "购买须知：限购说明：每单限购6张 座位类型：请按门票对应座位，有序对号入座 儿童入场提示 ：1.2米以上凭票入场，1.2米以下谢绝入场禁止携带物品：食品、饮料、相机、充电宝、打火机等 电子票 ：本项目支持凭电子票入场。-请至少提前一天购买，用户下单后24小时内，票牛会发送取票短信，请按短信提示内容取票。",
+        "imgInfo": {
+          "small": "https://img9.doubanio.com/pview/event_poster/plarge/public/99b3ba40e7c1515.jpg",
+          "longImg":"https://img3.doubanio.com/view/page_note/large/public/p100148960-1.jpg"
+        }
+      },
+      "nearEImgListDetail": [
+        {"id": 1,"name":"印象•坡峰岭｜-2020最火红叶...", "imgUrl": "https://img9.doubanio.com/pview/event_poster/large/public/485bc081a29e6d5.jpg"},
+        {"id": 2,"name":"【跳舞需要天赋吗？】已帮助近300名0...", "imgUrl": "https://img2.doubanio.com/pview/event_poster/large/public/bb03dc767ef9f12.jpg"},
+        {"id": 3,"name":"TheSoul舞蹈站点——北京城内最独特的...", "imgUrl": "https://img9.doubanio.com/pview/event_poster/large/public/803cfc764342036.jpg"},
+        {"id": 4,"name":"你你你你要跳舞吗？【学会跳舞 交到朋...", "imgUrl": "https://img9.doubanio.com/pview/event_poster/large/public/8243a153f05b414.jpg"},
+        {"id": 5,"name":"教你听到音乐就会跳舞，任何风格轻松...", "imgUrl": "https://img2.doubanio.com/pview/event_poster/large/public/42c7fd59272237f.jpg"},
+        {"id": 6,"name":"凤雅学堂:《诗经》与当代生活！！", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/6e71ba574da9d80.jpg"},
+        {"id": 7,"name":"打破传统舞蹈教学模式，【新式教学法...", "imgUrl": "https://img9.doubanio.com/pview/event_poster/large/public/5e468194d0d1db5.jpg"},
+        {"id": 8,"name":"草地读书会", "imgUrl": "https://img2.doubanio.com/pview/event_poster/large/public/8b967f039397263.jpg"},
+        {"id": 9,"name":"北京！！！过年不回家的童鞋看过来！！", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/3e60d9b19b82437.jpg"},
+        {"id": 10,"name":"【北京英语角】纯外教口语交流 自信开...", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/7feb87426dc6f5e.jpg"}
+      ]
+    },
+    {"id":101,      
+      "title":"Comedy24k即兴喜剧",
+      "data":"2020年11月07日 ~ 2020年11月14日 每周六 16:00 - 19:30",
+      "address":"北京 5house",
+      "money":"免费",
+      "type":" 戏剧-话剧",
+      " infoOrigin":"票牛",
+      "other":"活动结束时间以实际活动为准",
+      "num1":3,
+      "num2":3,
+      "exerciseDetail": {
+        "title": "活动详情",
+        "name": "购买须知：限购说明：每单限购6张 座位类型：请按门票对应座位，有序对号入座 儿童入场提示：儿童一律凭票入场实体票：本项目支持凭实体票入场，支持以下取票方式： - 快递配送：运费10元(V4及以上会员包邮)，顺丰发货。 -现场取票：票牛工作人员将在演出开场前1小时至现场派票。工作人员联系方式、具体取票地点将在演出当天以短信通知发送至预留的手机号。演出介绍  2020第六届北京国际流行音乐周系列活动疯客与舞蹈Click#15北京音乐会",
+        "imgInfo": {
+          "small": "https://img1.doubanio.com/pview/event_poster/plarge/public/ae5da0c9ea33888.jpg",
+          "longImg":"https://img1.doubanio.com/pview/event_poster/plarge/public/ae5da0c9ea33888.jpg"
+        }
+      },
+      "nearEImgListDetail": [
+        {"id": 1,"name":"暗黑超英大片《地狱男爵：血皇后崛起...", "imgUrl": "https://img9.doubanio.com/pview/event_poster/large/public/9119bad9a8771c5.jpg"},
+        {"id": 2,"name":"陈春成、贾行家、史航：今夜，潜入奇...", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/8feaecc25c888ea.jpg"},  
+        {"id": 3,"name":"在现代江湖里，射箭和攀岩哪个更厉害...", "imgUrl": "https://img9.doubanio.com/pview/event_poster/large/public/a4b4d3d12b0d524.jpg"},
+        {"id": 4,"name":"每周六 零基础组乐队", "imgUrl": "https://img9.doubanio.com/pview/event_poster/large/public/ae2ef76d3e27a96.jpg"},
+        {"id": 5,"name":"读心术/催眠通灵，你也能亲身免费体验...", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/8200cd34dab3ccd.jpg"},
+        {"id": 6,"name":"素人改造—找到另一个自己（周末学穿搭）", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/bc84134ef884bd1.jpg"},
+        {"id": 7,"name":"【10.8】北京最好室内攀岩馆，等你来战", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/a54fa038cb34f9d.jpg"},
+        {"id": 8,"name":"【周日特供】KTV+仙剑奇侠传主题沉浸...", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/4377e2494518d08.jpg"},
+        {"id": 9,"name":"一起组乐队", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/e8fbb14f154baac.jpg"},
+        {"id": 10,"name":"周末同城「读书沙龙」——分享改变你...", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/b05baafb568cf0d.jpg"}
+      ]
+    },
+    {"id":102,
+      "title":"北京周六爱笑大会~脱口秀争霸赛",
+      "data":"10月31日 周六 19:30 ~ 12月26日 周六 21:30",
+      "address":"北京 繁星戏剧村伍剧场 北京市西城区抄手胡同64号v",
+      "money":"105 - 179元",
+      "type":"  戏剧-戏曲",
+      " infoOrigin":"票牛",
+      "other":"活动结束时间以实际活动为准",
+      "num1":1,
+      "num2":3,
+      "exerciseDetail": {
+        "title": "活动详情",
+        "name": "购买须知：限购说明：每单限购6张 座位类型：请按门票对应座位，有序对号入座 儿童入场提示：儿童一律凭票入场实体票：本项目支持凭实体票入场，支持以下取票方式： - 快递配送：运费10元(V4及以上会员包邮)，顺丰发货。 -现场取票：票牛工作人员将在演出开场前1小时至现场派票。工作人员联系方式、具体取票地点将在演出当天以短信通知发送至预留的手机号。演出介绍  2020第六届北京国际流行音乐周系列活动疯客与舞蹈Click#15北京音乐会",
+        "imgInfo": {
+          "small": "https://img2.doubanio.com/pview/event_poster/plarge/public/8fdf5a6399e2aa2.jpg",
+          "longImg":"https://img3.doubanio.com/view/page_note/large/public/p99997986-1.jpg"
+        }
+      },
+      "nearEImgListDetail": [
+        {"id": 1,"name":"有氧青年 徒步/爬山 周六/周日  遛弯 ...", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/fb6392e46eed09c.jpg"},
+        {"id": 2,"name":"【冰雪梦幻7日】滑雪+徒步梦幻雪山镜...", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/215f6e4e6cc3ef7.jpg"},  
+        {"id": 3,"name":"自由随心舞出我人生！——让你拥有听...", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/ce44c1f3f385027.jpg"},
+        {"id": 4,"name":"《Silent Hill》鬼才作曲家Akira Yama...", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/572548d3ae1c2e8.jpg"},
+        {"id": 5,"name":"紫禁城建成六百年”展", "imgUrl": "https://img9.doubanio.com/pview/event_poster/large/public/f2efc41f0bde286.jpg"},
+        {"id": 6,"name":"TheSoul舞蹈站点教你如何舞蹈在学中玩...", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/0ebeae07188022e.jpg"},
+        {"id": 7,"name":"“妙合神形”中国国家博物馆藏明清肖...", "imgUrl": "https://img2.doubanio.com/pview/event_poster/large/public/429a9dda8de2a32.jpg"},
+        {"id": 8,"name":"玉出红山：红山文化考古成就展", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/cfac760d4a3acf8.jpg"},
+        {"id": 9,"name":"天地同和——中国古代乐器展", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/d0e64b28f100cf0.jpg"},
+        {"id": 10,"name":"国家大剧院“冬日之约”", "imgUrl": "https://img2.doubanio.com/pview/event_poster/large/public/92e02e8cf71b903.jpg"}
+      ]
+    },
+    {"id":103,
+      "title":"英国日（北京场）British Day",
+      "data":"11月07日 周六 11:00-17:00",
+      "address":"北京 北京市朝阳区百子湾园",
+      "money":"免费",
+      "type":"  戏剧-其他",
+      " infoOrigin":" 以舞会友",
+      "other":"活动结束时间以实际活动为准",
+      "num1":18,
+      "num2":18,
+      "exerciseDetail": {
+        "title": "活动详情",
+        "name": "购买须知：限购说明：每单限购6张 座位类型：请按门票对应座位，有序对号入座 儿童入场提示：儿童一律凭票入场实体票：本项目支持凭实体票入场，支持以下取票方式： - 快递配送：运费10元(V4及以上会员包邮)，顺丰发货。 -现场取票：票牛工作人员将在演出开场前1小时至现场派票。工作人员联系方式、具体取票地点将在演出当天以短信通知发送至预留的手机号。演出介绍  2020第六届北京国际流行音乐周系列活动疯客与舞蹈Click#15北京音乐会",
+        "imgInfo": {
+          "small": "https://img1.doubanio.com/pview/event_poster/plarge/public/8fd87f62ab9fd0a.jpg",
+          "longImg":"https://img2.doubanio.com/view/page_note/large/public/p99923732-3.jpg"
+        }
+      },
+      "nearEImgListDetail": [
+        {"id": 1,"name":"维影放映室｜豆瓣电影 Top 250 补番计划", "imgUrl": "https://img9.doubanio.com/pview/event_poster/large/public/c295ac5a2c47564.jpg"},
+        {"id": 2,"name":"陈春成、贾行家、史航：今夜，潜入奇...", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/8feaecc25c888ea.jpg"},  
+        {"id": 3,"name":"个人形象管理·至臻沙龙，一学就会的...", "imgUrl": "https://img2.doubanio.com/pview/event_poster/large/public/b39e61395b5f573.jpg"},
+        {"id": 4,"name":"在现代江湖里，射箭和攀岩哪个更厉害...", "imgUrl": "https://img9.doubanio.com/pview/event_poster/large/public/a4b4d3d12b0d524.jpg"},
+        {"id": 5,"name":"每周六 零基础组乐队", "imgUrl": "https://img9.doubanio.com/pview/event_poster/large/public/ae2ef76d3e27a96.jpg"},
+        {"id": 6,"name":"空余时间公益！给孩子一个新的希望！...", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/ed8491aebdd4699.jpg"},
+        {"id": 7,"name":"【10.8】北京最好室内攀岩馆，等你来战", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/a54fa038cb34f9d.jpg"},
+        {"id": 8,"name":"【周日特供】KTV+仙剑奇侠传主题沉浸...", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/4377e2494518d08.jpg"},
+        {"id": 9,"name":"一起组乐队", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/e8fbb14f154baac.jpg"},
+        {"id": 10,"name":"自然力 X OCAT北京馆 |瘗疫六字诀《声...", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/761865e3b5d0d59.jpg"}
+      ]
     }
-  },
-  "nearEImgListDetail": [
-    {"id": 1,"name":"印象•坡峰岭｜-2020最火红叶...", "imgUrl": "https://img9.doubanio.com/pview/event_poster/large/public/485bc081a29e6d5.jpg"},
-    {"id": 2,"name":"【跳舞需要天赋吗？】已帮助近300名0...", "imgUrl": "https://img2.doubanio.com/pview/event_poster/large/public/bb03dc767ef9f12.jpg"},
-    {"id": 3,"name":"TheSoul舞蹈站点——北京城内最独特的...", "imgUrl": "https://img9.doubanio.com/pview/event_poster/large/public/803cfc764342036.jpg"},
-    {"id": 4,"name":"你你你你要跳舞吗？【学会跳舞 交到朋...", "imgUrl": "https://img9.doubanio.com/pview/event_poster/large/public/8243a153f05b414.jpg"},
-    {"id": 5,"name":"教你听到音乐就会跳舞，任何风格轻松...", "imgUrl": "https://img2.doubanio.com/pview/event_poster/large/public/42c7fd59272237f.jpg"},
-    {"id": 6,"name":"凤雅学堂:《诗经》与当代生活！！", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/6e71ba574da9d80.jpg"},
-    {"id": 7,"name":"打破传统舞蹈教学模式，【新式教学法...", "imgUrl": "https://img9.doubanio.com/pview/event_poster/large/public/5e468194d0d1db5.jpg"},
-    {"id": 8,"name":"草地读书会", "imgUrl": "https://img2.doubanio.com/pview/event_poster/large/public/8b967f039397263.jpg"},
-    {"id": 9,"name":"北京！！！过年不回家的童鞋看过来！！", "imgUrl": "https://img1.doubanio.com/pview/event_poster/large/public/3e60d9b19b82437.jpg"},
-    {"id": 10,"name":"【北京英语角】纯外教口语交流 自信开...", "imgUrl": "https://img3.doubanio.com/pview/event_poster/large/public/7feb87426dc6f5e.jpg"}
+    
   ]
-}
+
+
+
+
+ 
+ 
+
+

@@ -22,9 +22,28 @@ router.get('/commonCityData',(ctx,next)=>{
 
 
 // 获取同城演出详情的数据
-const commonCityData_3376 = require('../datas/commonCityShowDetail.json')
-router.get('/commonCity/:id', ctx => {
-	ctx.body = commonCityData_3376
+const commonCityShowDetail = require('../datas/commonCityShowDetail.json')
+router.get('/commonCity', ctx => {
+	let id = ctx.request.query.id;
+	if(id === '1'){
+		let result = commonCityShowDetail.slice(0,1) 
+		ctx.body = result;
+	}else if(id === '2'){
+		let result = commonCityShowDetail.slice(1,2) 
+		ctx.body = result; 
+	}else if(id === '101'){
+		let result = commonCityShowDetail.slice(3,4) 
+		ctx.body = result; 
+	}else if(id === '102'){
+		let result = commonCityShowDetail.slice(4,5) 
+		ctx.body = result;  
+	}else if(id === '103'){
+		let result = commonCityShowDetail.slice(5,6) 
+		ctx.body = result; 
+	}else {
+		let result = commonCityShowDetail.slice(2,3)
+		ctx.body = result;
+	}    
 })
 
 // 获取电影接口参数
