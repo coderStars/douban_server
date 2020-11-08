@@ -26,6 +26,7 @@ const booksClassification = require('../datas/classIfIcation.json')
 router.get('/getBooksClassification',ctx=>{
 	ctx.body = booksClassification
 	// console.log(ctx.query);
+})
 //获得某个新书的数据
 router.get('/getNewsBooksList/:id', ctx => {
 	let booksInfo = newBooksList.find(item => {
