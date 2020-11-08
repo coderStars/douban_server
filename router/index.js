@@ -161,14 +161,8 @@ router.post('/getVerifyUserCode', async ctx => {
 //用户名密码
 router.post('/getVerifyUser', async ctx => {
 	console.log(ctx.request.body)
-	let {
-		telephone,
-		password
-	} = ctx.request.body
-	let result = await mysql.query({
-		telephone,
-		password
-	})
+	let { telephone,password} = ctx.request.body
+	let result = await mysql.query({telephone,password})
 	console.log(result);
 	if (result.length > 0) {
 		ctx.body = {
