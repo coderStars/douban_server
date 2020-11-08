@@ -20,6 +20,14 @@ const newBooksList = require('../datas/booksInfo.json')
 router.get('/getNewsBooksList',ctx=>{
 	ctx.body = newBooksList
 })
+
+// 获取书分类详情页数据
+const booksClassification = require('../datas/classIfIcation.json')
+router.get('/getBooksClassification',ctx=>{
+	ctx.body = booksClassification
+	// console.log(ctx.query);
+})
+
 //获取同城页面的数据
 const commonCityData = require('../datas/commonCity.json')
 router.get('/commonCityData', (ctx, next) => {
