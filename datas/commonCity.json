@@ -38,10 +38,10 @@
     ],
     "showDetail":[
         {"id":1,"name":"鼓楼西特邀·《非常悬疑》","imgUrl":"https://img1.doubanio.com/pview/event_poster/median/public/92a60f9a5b1b2e7.jpg"},
-        {"id":2,"name":"爆笑「脱口秀」激情live之夜！高速开车，疯狂解压！","imgUrl":"https://img2.doubanio.com/pview/event_poster/median/public/752af46ee6e7f62.jpg"},
-        {"id":3,"name":"京剧《荀灌娘》《三堂会审》","imgUrl":"https://img1.doubanio.com/pview/event_poster/median/public/505e538531e37d9.jpg"},
-        {"id":4,"name":"北京周六爱笑大会~脱口秀争霸赛","imgUrl":"https://img2.doubanio.com/pview/event_poster/median/public/8fdf5a6399e2aa2.jpg"},
-        {"id":5,"name":"北京京剧院流派经典剧目展演","imgUrl":"https://img9.doubanio.com/pview/event_poster/median/public/1f4635a54721054.jpg"},
-        {"id":6,"name":"中国国家话剧院演出 话剧《人民至上》","imgUrl":"https://img1.doubanio.com/pview/event_poster/median/public/b4f048a7e70dc88.jpg"}
+        {"id":101,"name":"Comedy24k即兴喜剧","imgUrl":"https://img1.doubanio.com/pview/event_poster/median/public/ae5da0c9ea33888.jpg"},
+        {"id":2,"name":"京剧《荀灌娘》《三堂会审》","imgUrl":"https://img1.doubanio.com/pview/event_poster/median/public/505e538531e37d9.jpg"},
+        {"id":102,"name":"北京周六爱笑大会~脱口秀争霸赛","imgUrl":"https://img2.doubanio.com/pview/event_poster/median/public/8fdf5a6399e2aa2.jpg"},
+        {"id":3,"name":"北京京剧院流派经典剧目展演","imgUrl":"https://img9.doubanio.com/pview/event_poster/median/public/1f4635a54721054.jpg"},
+        {"id":103,"name":"英国日（北京场）British Day","imgUrl":"https://img1.doubanio.com/pview/event_poster/median/public/8fd87f62ab9fd0a.jpg"}
     ]
 }

@@ -17,7 +17,7 @@ router.get('/getBookHotList', ctx => {
 
 // 获取新书速递数据
 const newBooksList = require('../datas/booksInfo.json')
-router.get('/getNewsBooksList',ctx=>{
+router.get('/getNewsBooksList', ctx => {
 	ctx.body = newBooksList
 })
 
@@ -26,6 +26,23 @@ const booksClassification = require('../datas/classIfIcation.json')
 router.get('/getBooksClassification',ctx=>{
 	ctx.body = booksClassification
 	// console.log(ctx.query);
+//获得某个新书的数据
+router.get('/getNewsBooksList/:id', ctx => {
+	let booksInfo = newBooksList.find(item => {
+		return item.id === +ctx.params.id
+	})
+	if (booksInfo) {
+		ctx.body = {
+			code: 2000,
+			data: booksInfo
+		}
+	} else {
+		ctx.body = {
+			code: 2001,
+			data: {}
+		}
+	}
+
 })
 
 //获取同城页面的数据
@@ -36,9 +53,28 @@ router.get('/commonCityData', (ctx, next) => {
 
 
 // 获取同城演出详情的数据
-const commonCityData_3376 = require('../datas/commonCityShowDetail.json')
-router.get('/commonCity/:id', ctx => {
-	ctx.body = commonCityData_3376
+const commonCityShowDetail = require('../datas/commonCityShowDetail.json')
+router.get('/commonCity', ctx => {
+	let id = ctx.request.query.id;
+	if(id === '1'){
+		let result = commonCityShowDetail.slice(0,1) 
+		ctx.body = result;
+	}else if(id === '2'){
+		let result = commonCityShowDetail.slice(1,2) 
+		ctx.body = result; 
+	}else if(id === '101'){
+		let result = commonCityShowDetail.slice(3,4) 
+		ctx.body = result; 
+	}else if(id === '102'){
+		let result = commonCityShowDetail.slice(4,5) 
+		ctx.body = result;  
+	}else if(id === '103'){
+		let result = commonCityShowDetail.slice(5,6) 
+		ctx.body = result; 
+	}else {
+		let result = commonCityShowDetail.slice(2,3)
+		ctx.body = result;
+	}    
 })
 
 // 获取电影接口参数
@@ -149,14 +185,8 @@ router.post('/getVerifyUserCode', async ctx => {
 //用户名密码
 router.post('/getVerifyUser', async ctx => {
 	console.log(ctx.request.body)
-	let {
-		telephone,
-		password
-	} = ctx.request.body
-	let result = await mysql.query({
-		telephone,
-		password
-	})
+	let { telephone,password} = ctx.request.body
+	let result = await mysql.query({telephone,password})
 	console.log(result);
 	if (result.length > 0) {
 		ctx.body = {
@@ -175,12 +205,18 @@ router.post('/getVerifyUser', async ctx => {
 
 
 
-//豆品的数据接口
+//豆品下全部商品的数据接口
 const allShopDataList = require('../datas/allShopData.json');
 router.get('/getAllShopDataList', (ctx) => {
 	ctx.body = allShopDataList;
 });
 
+
+//豆品主页的数据接口
+const maindoupinDataList = require('../datas/maindoupinData.json');
+router.get('/getMaindoupinDataList', (ctx) => {
+	ctx.body = maindoupinDataList;
+});
 
 
 
