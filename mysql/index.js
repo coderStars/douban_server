@@ -15,7 +15,19 @@ class Mysql {
   }
   query(data) {
     return new Promise((resolve, reject) => {
-      pool.query(`SELECT * from user where telephone=${data.telephone} and password=${data.password} `, function (error, results, fields) {
+      pool.query(`SELECT * from user where telephone='${data.telephone}' and password='${data.password}' `, function (error, results, fields) {
+        if (error) {
+          throw error
+        };
+        resolve(results)
+      });
+    })
+
+  }
+
+  queryByPassword(data) {
+    return new Promise((resolve, reject) => {
+      pool.query(`SELECT * from user where username='${data.username}' and password='${data.password}'`, function (error, results, fields) {
         if (error) {
           throw error
         };
@@ -27,7 +39,7 @@ class Mysql {
 
   queryByTelePhone(data) {
     return new Promise((resolve, reject) => {
-      pool.query(`SELECT * from user where telephone=${data.telephone} `, function (error, results, fields) {
+      pool.query(`SELECT * from user where telephone='${data.telephone}' `, function (error, results, fields) {
         if (error) {
           throw error
         };

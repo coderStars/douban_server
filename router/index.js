@@ -8,6 +8,40 @@ const fly=new Fly;
 
 const router = new KoaRouter();
 
+
+//鉴权登录
+router.post('/login', async (ctx) => {
+	console.log(ctx.request.body);
+	const data = ctx.request.body;
+	if(!data.name || !data.password){
+			return ctx.body = {
+					code: '000002',
+					data: null,
+					msg: '参数不合法'
+			}
+	}
+	const result = await mysql.queryByPassword({username: data.name,password: data.password})
+	console.log(result);
+	if(result !== null){
+			const token = jwt.sign({
+					name: result[0].username,
+					_id: result[0].id
+			}, 'my_token', { expiresIn: '2h' });
+			return ctx.body = {
+					code: '000001',
+					data: token,
+					msg: '登录成功'
+			}
+	}else{
+			return ctx.body = {
+					code: '000002',
+					data: null,
+					msg: '用户名或密码错误'
+			}
+	}
+});
+
+
 // 获得读书页右侧热门分类 
 const bookHotList = require('../datas/bookHotTag.json')
 router.get('/getBookHotList',ctx => {
