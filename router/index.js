@@ -214,14 +214,8 @@ router.post('/getVerifyUserCode', async ctx => {
 //用户名密码
 router.post('/getVerifyUser', async ctx => {
 	console.log(ctx.request.body)
-	let {
-		telephone,
-		password
-	} = ctx.request.body
-	let result = await mysql.query({
-		telephone,
-		password
-	})
+	let { telephone,password} = ctx.request.body
+	let result = await mysql.query({telephone,password})
 	console.log(result);
 	if (result.length > 0) {
 		ctx.body = {
@@ -240,12 +234,18 @@ router.post('/getVerifyUser', async ctx => {
 
 
 
-//豆品的数据接口
+//豆品下全部商品的数据接口
 const allShopDataList = require('../datas/allShopData.json');
 router.get('/getAllShopDataList', (ctx) => {
 	ctx.body = allShopDataList;
 });
 
+
+//豆品主页的数据接口
+const maindoupinDataList = require('../datas/maindoupinData.json');
+router.get('/getMaindoupinDataList', (ctx) => {
+	ctx.body = maindoupinDataList;
+});
 
 
 
