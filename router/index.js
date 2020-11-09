@@ -72,18 +72,6 @@ router.get('/commonCity', ctx => {
 	}    
 })
 
-// 获取电影接口参数
-const moviesData = require('../datas/movies.json')
-router.get('/getMoviesData', (ctx) => {
-	ctx.body = moviesData
-})
-
-// 获取点数据tags参数
-const tvsData = require('../datas/Tvs.json')
-router.get('/getI', (ctx, tvsData) => {
-	ctx.body = tvsData
-})
-
 router.get('/test', (ctx, next) => {
 	ctx.body = "测试test接口"
 })
@@ -214,5 +202,119 @@ router.get('/getMaindoupinDataList', (ctx) => {
 });
 
 
+// 电影
+// 获取热门电影
+const movieHot = require('../datas/movie/movies/movieHot.json')
+  router.get('/getMovieHot',(ctx) => {
+    ctx.body=movieHot
+})
+
+// 获取最新电影
+const movieNew = require('../datas/movie/movies/movieNew.json')
+  router.get('/getMovieNew',(ctx) => {
+    ctx.body=movieNew
+})
+
+// 获取豆瓣高分电影
+const movieHigh = require('../datas/movie/movies/movieHigh.json')
+  router.get('/getMovieHigh',(ctx) => {
+    ctx.body=movieHigh
+})
+
+// 获取冷门佳片电影
+const movieCold = require('../datas/movie/movies/movieCold.json')
+  router.get('/getMovieCold',(ctx) => {
+    ctx.body=movieCold
+})
+
+// 获取华语电影
+const movieCh = require('../datas/movie/movies/movieCh.json')
+  router.get('/getMovieCh',(ctx) => {
+    ctx.body=movieCh
+})
+
+// 获取欧美电影
+const movieEur = require('../datas/movie/movies/movieEur.json')
+  router.get('/getMovieEur',(ctx) => {
+    ctx.body=movieEur
+})
+
+// 获取韩国电影
+const movieKor = require('../datas/movie/movies/movieKor.json')
+  router.get('/getMovieKor',(ctx) => {
+    ctx.body=movieKor
+})
+
+// 获取日本电影
+const movieJan = require('../datas/movie/movies/movieJan.json')
+  router.get('/getMovieJan',(ctx) => {
+    ctx.body=movieJan
+})
+
+// 标签
+// 获取电影标签
+const movieTag = require('../datas/movie/tags/movieTag.json')
+  router.get('/getMovieTag',(ctx) => {
+    ctx.body=movieTag
+})
+// 获取电视标签
+const tvTag = require('../datas/movie/tags/tvTag.json')
+  router.get('/getTvTag',(ctx) => {
+    ctx.body=tvTag
+})
+// 获取标签
+const tag = require('../datas/movie/tags/tag.json')
+  router.get('/getTag',(ctx) => {
+    ctx.body=tag
+})
+
+// 电视
+// 热门
+const tvHot = require('../datas/movie/tvs/tvHot.json')
+  router.get('/getTvHot',(ctx) => {
+    ctx.body=tvHot
+})
+
+// 国产剧
+const tvCh = require('../datas/movie/tvs/tvCh.json')
+  router.get('/getTvCh',(ctx) => {
+    ctx.body=tvCh
+})
+
+// 综艺
+const tvZh = require('../datas/movie/tvs/tvZh.json')
+  router.get('/getTvZh',(ctx) => {
+    ctx.body=tvZh
+})
+
+// 美剧
+const tvTus = require('../datas/movie/tvs/tvTus.json')
+  router.get('/getTvTus',(ctx) => {
+    ctx.body=tvTus
+})
+
+// 日剧
+const tvJan = require('../datas/movie/tvs/tvJan.json')
+  router.get('/getTvJan',(ctx) => {
+    ctx.body=tvJan
+})
+
+// 韩剧
+const tvKor = require('../datas/movie/tvs/tvKor.json')
+  router.get('/getTvKor',(ctx) => {
+    ctx.body=tvKor
+})
+
+// 日本动画
+const tvAni = require('../datas/movie/tvs/tvAni.json')
+  router.get('/getTvAni',(ctx) => {
+    ctx.body=tvAni
+})
+
+// 纪录片
+const tvRec = require('../datas/movie/tvs/tvRec.json')
+  router.get('/getTvRec',(ctx) => {
+    ctx.body=tvRec
+})
 
 module.exports = router
